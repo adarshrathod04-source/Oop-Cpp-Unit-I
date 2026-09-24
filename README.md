@@ -3,7 +3,7 @@
 
 ### Student Information
 
-| Field | Details | 
+| Field | Details |  
 |---------|---------|
 | Student Name | Adarsh Balaji|
 | PRN | 125UAD1148 |
